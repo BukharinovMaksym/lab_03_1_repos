@@ -47,7 +47,7 @@ int main()
 
 	y = A - B;
 
-	cout << "1) y = " << y << endl;
+	cout << "2) y = " << y << endl;
 
 	cin.get();
 	return 0;
